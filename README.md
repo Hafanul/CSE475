@@ -1,6 +1,5 @@
 # CSE475
-Project Image Classification 
-Report LINK
+Project Report LINK
 
 https://www.overleaf.com/read/zbnhwmzfcbcb
 
